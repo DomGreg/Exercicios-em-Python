@@ -71,3 +71,4 @@ if pc == 2: # Computador jogou TESOURA
 
     else:
         print('JOGADA INVÁLIDA')
+        
